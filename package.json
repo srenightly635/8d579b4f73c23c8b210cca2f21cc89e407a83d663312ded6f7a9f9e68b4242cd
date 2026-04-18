@@ -1,0 +1,12 @@
+{
+  "name": "pdf-generator-2e4e08",
+  "version": "1.0.0",
+  "description": "A pdf-generator utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["pdf-generator", "utility"],
+  "license": "MIT"
+}
